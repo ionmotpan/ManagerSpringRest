@@ -1,0 +1,2 @@
+
+<bean id="emploee" class="edu.step.manager.model.Employee"></bean>
